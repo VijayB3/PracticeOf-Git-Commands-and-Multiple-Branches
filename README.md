@@ -1,4 +1,4 @@
-# 🌳 Practice of Git Commands and Multiple Branches.
+# 🌳 Practice of Git Commands and Multiple Branches
 
 This repository is created to practice and understand how **Git** works in real development environments.
 
